@@ -37,5 +37,7 @@ Student-Result-Management-System/
 
 📷 Screenshots
 🔹 Output Example:
-<img width="1589" height="548" alt="Output_2" src="https://github.com/user-attachments/assets/20ea5c1d-59f7-47d9-8a13-289c0d22bb48" />
+
 <img width="1607" height="882" alt="Output_1" src="https://github.com/user-attachments/assets/7351fe1b-1deb-4814-a4b4-a944d92b26d1" />
+<img width="1589" height="548" alt="Output_2" src="https://github.com/user-attachments/assets/20ea5c1d-59f7-47d9-8a13-289c0d22bb48" />
+
